@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Polito1342
+- 👀 I’m interested in creating a minecraft bedrock plugins
+- 🌱 I’m currently learning PHP and JavaScript
+- 💞️ I’m looking for collaborators to create plugins for the community 
+- 📫 How to reach me ...
+- 😄 Pronouns: Cr4k4tua
+- ⚡ If you any ideas for creating a plugin, contact me on my discord @cr4k4tua 
